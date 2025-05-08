@@ -1,4 +1,7 @@
-# demo
-this is my first git repository
+#Tumer prediction using Logistic Regression
 <br>
-author akeel fayaz
+This machine learning project uses a Logistic Regression model to predict whether
+<br>
+a tumor begnign or maligant based on meadical features.The project demonstrates a
+<br>
+supervised learning approach for binary classification.
